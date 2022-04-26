@@ -1,0 +1,1 @@
+(q and p and s and not t) or (q and p and t and not s)

@@ -1,0 +1,1 @@
+((a1 and not a2) or (not a1 and not a2) or (a1 and a2)) and (not b1) and ((a and b and d) or (not a and b and d) or (a and not b and d) or (a and b and not d))
